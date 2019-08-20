@@ -1,13 +1,13 @@
 # Site settings
-title: Xuan Feng
-email: fengxuan@iie.ac.cn
+title: Jiamian Liu
+email: jiamianliu@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm a PhD candidate at University of Chinese Academy Sicence with research interests in
   network measurement and data-driven security.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://http://xtalentfeng.github.io" # the base hostname & protocol for your site
-twitter_username: 631958057
-github_username:  xtalentfeng
+# twitter_username: 631958057
+github_username:  ljm0
 # orcid_id: 0000-0003-4072-6263
 # google_scholar_id: BNr-fb8AAAAJ
 
