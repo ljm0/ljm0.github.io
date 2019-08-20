@@ -17,7 +17,7 @@
  
 
          <p class="text">
-          No.19(A) Yuquan Road, Shijingshan District<br/>Beijing, P.R.China 100049 <!-- {{ site.description }} -->
+          VU & University of Amsterdam<br/>Amsterdam Netherlands <!-- {{ site.description }} -->
       </div>
 
       <div class="footer-col  footer-col-3">
@@ -30,6 +30,14 @@
       <i class="fa fa-github" style="color:gray"></i> {{ site.github_username }}
     </a>
   </li>
+{% endif %}
+
+            {% if site.comlinkedin_username %}
+<li>
+  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+    <i class="fa fa-linkedin" style="color:gray"></i> {{ site.linkedin_username }}
+  </a>
+</li>
 {% endif %}
 
           {% if site.twitter_username %}

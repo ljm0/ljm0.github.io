@@ -6,7 +6,7 @@ permalink: /blog/
 
 I am trying to add some blogs here.
 
-<ul id="archive">
+<!-- <ul id="archive">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
@@ -19,15 +19,16 @@ I am trying to add some blogs here.
  
   {% for cat in post.categories %}
   <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
-  {% endfor %}
+  {% endfor %} -->
 
-{% endif %} <!-- {{ post.categories | first }} -->
-<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">{{ post.date | date: '%d %b %Y' }}</strong> 
+<!-- {% endif %}  -->
+<!-- {{ post.categories | first }} -->
+<!-- <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">{{ post.date | date: '%d %b %Y' }}</strong> 
 </span> 
 
 </li>
 {% endfor %}
-</ul>
+</ul> -->
 
 <!-- {{ post.date | date: '%m %d, %Y' }} -->
 
