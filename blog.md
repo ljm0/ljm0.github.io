@@ -4,7 +4,7 @@ title: Other Links
 permalink: /OtherLinks/
 ---
 
-<!-- [My Wife's Website](https://miaoli-psy.github.io/) -->
+[My Wife's Website](https://miaoli-psy.github.io/)
 
 <!-- <ul id="archive">
 {% for post in site.posts %}
