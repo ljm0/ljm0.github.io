@@ -1,5 +1,5 @@
-# - title: "About"
-#   href: "/about/"
+- title: "About"
+  href: "/about/"
 
 - title: "CV"
   href: "/cv/"
@@ -12,8 +12,8 @@
 #     - subtitle: "Pi Sigma Alpha"
 #       subhref: "/for-students/pi-sigma-alpha/"
 
-# - title: "Research"
-#   href: "/research/"
+- title: "Research"
+  href: "/research/"
 
 - title: "Other Links"
   href: "/OtherLinks/"
