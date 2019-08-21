@@ -3,6 +3,9 @@ layout: page
 title: Other Links
 permalink: /OtherLinks/
 ---
+[Github](https://github.com/ljm0)
+
+[LinkedIn](https://www.linkedin.com/in/jiamianliu/)
 
 [My Wife's Website](https://miaoli-psy.github.io/)
 
