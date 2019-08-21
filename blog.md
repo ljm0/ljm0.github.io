@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Other Links About Me
+title: Other Links
 permalink: /OtherLinks/
 ---
 
-[Douban(豆瓣)](https://www.douban.com/people/122308748/)
-
-[Goodreads](https://www.goodreads.com/user/show/31716487-miao)
-
-[Blog](https://jiamiao2018.blogspot.com/)
+<!-- [My Wife's Website](https://miaoli-psy.github.io/) -->
 
 <!-- <ul id="archive">
 {% for post in site.posts %}
