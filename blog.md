@@ -7,7 +7,7 @@ permalink: /OtherLinks/
 
 [LinkedIn](https://www.linkedin.com/in/jiamianliu/)
 
-[About My Wife](https://miaoli-psy.github.io/)
+<!-- [About My Wife](https://miaoli-psy.github.io/)-->
 
 <!-- <ul id="archive">
 {% for post in site.posts %}
