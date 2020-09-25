@@ -7,7 +7,8 @@ permalink: /OtherLinks/
 
 [LinkedIn](https://www.linkedin.com/in/jiamianliu/)
 
-![avatar](/images/dog.png"my dog 牛牛niu_niu")
+My dog 牛牛niu_niu:
+![avatar](/images/dog.png)
 
 <!-- [About My Wife](https://miaoli-psy.github.io/)-->
 
