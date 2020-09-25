@@ -7,6 +7,10 @@ permalink: /OtherLinks/
 
 [LinkedIn](https://www.linkedin.com/in/jiamianliu/)
 
+    <div class="col-2">
+		{% include image.html url="/images/dog.jpg" caption="My dog 牛牛niuniu." align="center" %}
+    </div>
+
 <!-- [About My Wife](https://miaoli-psy.github.io/)-->
 
 <!-- <ul id="archive">
