@@ -7,7 +7,7 @@ permalink: /OtherLinks/
 
 [LinkedIn](https://www.linkedin.com/in/jiamianliu/)
 
-My dog `牛牛 niuniu`:
+My dog `牛牛 niuniu` (at my parent house in China):
 ![avatar](/images/dog.png)
 
 <!-- [About My Wife](https://miaoli-psy.github.io/)-->
